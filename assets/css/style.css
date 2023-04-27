@@ -2597,7 +2597,7 @@ Causes Area CSS
 
 .single-causes .icon {
   position: absolute;
-  bottom: 34%;
+  bottom: 28%;
   -webkit-transform: translateY(-34%);
           transform: translateY(-34%);
   z-index: 1;
