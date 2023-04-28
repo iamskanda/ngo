@@ -2587,6 +2587,10 @@ Causes Area CSS
   transition: 0.5s;
 }
 
+a{
+  cursor: pointer;
+}
+
 .single-causes .causes-content .causes-btn-one i {
   font-size: 14px;
   line-height: normal;
